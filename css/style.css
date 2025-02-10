@@ -142,3 +142,12 @@ h1 span {
 .border-blue {
     border-color: var(--crl-blue);
 }
+
+/* 
+==== This is not related to the challenge! ===
+ */
+.attribution {
+    margin-top: 10em;
+    font-size: 0.6rem;
+    text-align: right;
+}
